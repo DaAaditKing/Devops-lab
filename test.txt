@@ -1,4 +1,3 @@
 "this is D10B" 
 "this is the second change" 
-"Yoooho!" 
 "Rick Astley" 
